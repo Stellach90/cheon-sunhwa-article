@@ -35,5 +35,5 @@ I gave feedback to (then list the projects/repositories, for example...):
 <https://fonts.googleapis.com/css?family=Raleway:300,400,600i,900&display=swap>
 
 1. Raleway Display
-![DM Serif Display](https://1.bp.blogspot.com/-nZ2OWev4New/XRNWigeY6VI/AAAAAAAAApw/nfJLbqwMt1AXHefor-w61JFCGesoTXPQgCLcBGAs/s1600/DM%2BSerif%2BDisplay.png)
+![DM Serif Display]
 
