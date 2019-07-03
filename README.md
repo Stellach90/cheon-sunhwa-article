@@ -1,8 +1,7 @@
 # cheon-sunhwa-article
 S19 - INFORMATION ARCHITECTURE 2 CRN-81540-201803-July
 
-# Example Article Styling
-Example theme from class, started in week 9.
+# Article Styling
 
 ```
 Deliverable:  Assignment 2, Part B
