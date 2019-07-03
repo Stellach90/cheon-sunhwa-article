@@ -17,13 +17,13 @@ Notes:        none
 None. Just search how to do it in w3school.
 
 ## Feedback
-I gave feedback to (then list the projects/repositories, for example...):
+I gave feedback to:
 - https://github.com/isabelkim0707
 
 ## Styling Guide
 
 ### Colours
-<https://coolors.co/0c0a0a-3f434e-dddadf-68a01b-3a721e>
+
 - ![#3C0000](https://placehold.it/15/3C0000/000000?text=+) `#3C0000`
 - ![#050609](https://placehold.it/15/050609/000000?text=+) `#050609`
 - ![#774936](https://placehold.it/15/774936/000000?text=+) `#774936`
