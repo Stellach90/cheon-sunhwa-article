@@ -8,7 +8,7 @@ Deliverable:  Assignment 2, Part B
 Name:         George Brown
 Student #:    101211372
 Email:        sunhwa.cheon@georgebrown.ca
-Submitted:    July 5, 2019
+Submitted:    July 3, 2019
 Notes:        none
 ```
 - [X] I have reviewed the appropriate checklist before submitting this work
